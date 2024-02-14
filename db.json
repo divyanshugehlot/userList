@@ -1,0 +1,154 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "divyanshu gehlot",
+      "email": "diyanshu.gehlot@gmail.com",
+      "role": "customer"
+    },
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090",
+      "active": true,
+      "id": "2",
+      "role": "staff"
+    },
+    {
+      "id": "3",
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767",
+      "role": "admin"
+    },
+    {
+      "id": "4",
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767",
+      "role": "customer"
+    },
+    {
+      "id": "5",
+      "name": "vikram",
+      "email": "vikram@in.com",
+      "phone": "908908767",
+      "role": "staff"
+    },
+    {
+      "id": "9c9c",
+      "name": "div",
+      "email": "dev@gmail.com",
+      "role": "data engineer"
+    },
+    {
+      "id": "c0a1",
+      "name": "dev",
+      "email": "abc@gmail.com",
+      "role": "devloper"
+    },
+    {
+      "id": "bfd3",
+      "name": "raga",
+      "email": "raga@gmail.com",
+      "role": "staff",
+      "active": true
+    },
+    {
+      "id": "a4d2",
+      "name": "shiva",
+      "email": "shiva@gmail.com",
+      "role": "data scientist",
+      "active": true
+    },
+    {
+      "id": "cddd",
+      "name": "devesh gaur",
+      "email": "deveshgaur@gmail.com",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "5f9e",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "role": "admin",
+      "active": true
+    },
+    {
+      "id": "1",
+      "name": "divyanshu gehlot",
+      "email": "diyanshu.gehlot@gmail.com",
+      "role": "customer"
+    },
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090",
+      "active": true,
+      "id": "2",
+      "role": "staff"
+    },
+    {
+      "id": "3",
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767",
+      "role": "admin"
+    },
+    {
+      "id": "4",
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767",
+      "role": "customer"
+    },
+    {
+      "id": "5",
+      "name": "vikram",
+      "email": "vikram@in.com",
+      "phone": "908908767",
+      "role": "staff"
+    },
+    {
+      "id": "9c9c",
+      "name": "div",
+      "email": "dev@gmail.com",
+      "role": "data engineer"
+    },
+    {
+      "id": "c0a1",
+      "name": "dev",
+      "email": "abc@gmail.com",
+      "role": "devloper"
+    },
+    {
+      "id": "bfd3",
+      "name": "raga",
+      "email": "raga@gmail.com",
+      "role": "staff",
+      "active": true
+    },
+    {
+      "id": "a4d2",
+      "name": "shiva",
+      "email": "shiva@gmail.com",
+      "role": "data scientist",
+      "active": true
+    },
+    {
+      "id": "cddd",
+      "name": "devesh gaur",
+      "email": "deveshgaur@gmail.com",
+      "role": "employee",
+      "active": true
+    },
+    {
+      "id": "5f9e",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "role": "admin",
+      "active": true
+    }
+  ]
+}
